@@ -1,4 +1,4 @@
-name: Build OnePlusAce3_SukiSU-Ultra_Kernel
+name: Build OnePlus_Kernel
 on:
   workflow_dispatch:
     inputs:
